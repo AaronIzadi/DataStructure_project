@@ -124,19 +124,6 @@ public class TreeSet<K extends Comparable<K>, V> {
 
         public int compareTo(K key) {
             return this.key.compareTo(key);
-//            if (key instanceof String) {
-//                if (((String) key).compareTo((String) this.key) >= 0) {
-//                    return 1;
-//                } else {
-//                    return -1;
-//                }
-//            } else {
-//                if ((Integer) key >= (Integer) this.key) {
-//                    return 1;
-//                } else {
-//                    return -1;
-//                }
-//            }
         }
     }
 }
