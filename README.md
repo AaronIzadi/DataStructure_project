@@ -14,7 +14,7 @@ The goal of the project is to add, edit, delete and answering some basic questio
 
 These questions contain of searchig through these data models and calculating the hash.
 
-***In this project it is illegal to use the programming language's data strutures.***
+***In this project it is illegal to use the programming language's default data strutures.***
 
 ## Implementation of this project:
 
